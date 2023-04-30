@@ -2,7 +2,7 @@
   "name": "rubocop-runner",
   "displayName": "Rubocop Runner",
   "description": "Run rubocop commands to format ruby files through context menu",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": "https://github.com/Anx450z/rubocop-runner",
   "publisher": "anx450z",
   "engines": {
